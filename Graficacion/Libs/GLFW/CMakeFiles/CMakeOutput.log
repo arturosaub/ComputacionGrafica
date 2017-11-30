@@ -1,0 +1,248 @@
+The system is: Windows - 10.0.15063 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versi�n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci�n iniciada a las 16/10/2017 08:12:41 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\3.10.0-rc2\CompilerIdC\CompilerIdC.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Se crear� "Debug\CompilerIdC.tlog\unsuccessfulbuild" porque se especific� "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\3.10.0-rc2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\cl.exe
+FinalizeBuildStatus:
+  Se eliminar� el archivo "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Compilaci�n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\3.10.0-rc2\CompilerIdC\CompilerIdC.vcxproj" (destinos predeterminados).
+
+Compilaci�n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:03.00
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/3.10.0-rc2/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_d5257.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 16/10/2017 08:12:44 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_d5257.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_d5257.dir\Debug\".
+  Creando directorio "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_d5257.dir\Debug\cmTC_d5257.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_d5257.dir\Debug\cmTC_d5257.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5257.dir\Debug\\" /Fd"cmTC_d5257.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\testCCompiler.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.10.25019 para x86
+  (C) Microsoft Corporation. Reservados todos los derechos.
+  
+  testCCompiler.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d5257.dir\Debug\\" /Fd"cmTC_d5257.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_d5257.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_d5257.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_d5257.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_d5257.dir\Debug\testCCompiler.obj
+  cmTC_d5257.vcxproj -> C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_d5257.exe
+  cmTC_d5257.vcxproj -> C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_d5257.pdb (Full PDB)
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_d5257.dir\Debug\cmTC_d5257.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_d5257.dir\Debug\cmTC_d5257.tlog\cmTC_d5257.lastbuildstate".
+Compilaci¢n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_d5257.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.68
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_3274a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 16/10/2017 08:12:46 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_3274a.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_3274a.dir\Debug\".
+  Creando directorio "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_3274a.dir\Debug\cmTC_3274a.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_3274a.dir\Debug\cmTC_3274a.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3274a.dir\Debug\\" /Fd"cmTC_3274a.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.10.25019 para x86
+  (C) Microsoft Corporation. Reservados todos los derechos.
+  
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3274a.dir\Debug\\" /Fd"cmTC_3274a.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_3274a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_3274a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_3274a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_3274a.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_3274a.vcxproj -> C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_3274a.exe
+  cmTC_3274a.vcxproj -> C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_3274a.pdb (Full PDB)
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_3274a.dir\Debug\cmTC_3274a.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_3274a.dir\Debug\cmTC_3274a.tlog\cmTC_3274a.lastbuildstate".
+Compilaci¢n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_3274a.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.68
+
+
+The system is: Windows - 10.0.15063 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versi�n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci�n iniciada a las 16/10/2017 08:20:18 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\3.10.0-rc2\CompilerIdC\CompilerIdC.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Se crear� "Debug\CompilerIdC.tlog\unsuccessfulbuild" porque se especific� "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\3.10.0-rc2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\cl.exe
+FinalizeBuildStatus:
+  Se eliminar� el archivo "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Compilaci�n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\3.10.0-rc2\CompilerIdC\CompilerIdC.vcxproj" (destinos predeterminados).
+
+Compilaci�n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:02.16
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/3.10.0-rc2/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_6688f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 16/10/2017 08:20:20 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_6688f.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_6688f.dir\Debug\".
+  Creando directorio "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_6688f.dir\Debug\cmTC_6688f.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_6688f.dir\Debug\cmTC_6688f.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6688f.dir\Debug\\" /Fd"cmTC_6688f.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\testCCompiler.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.10.25019 para x64
+  (C) Microsoft Corporation. Reservados todos los derechos.
+  
+  testCCompiler.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6688f.dir\Debug\\" /Fd"cmTC_6688f.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_6688f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_6688f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_6688f.lib" /MACHINE:X64  /machine:x64 cmTC_6688f.dir\Debug\testCCompiler.obj
+  cmTC_6688f.vcxproj -> C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_6688f.exe
+  cmTC_6688f.vcxproj -> C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_6688f.pdb (Full PDB)
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_6688f.dir\Debug\cmTC_6688f.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_6688f.dir\Debug\cmTC_6688f.tlog\cmTC_6688f.lastbuildstate".
+Compilaci¢n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_6688f.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.72
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_4b2b1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 16/10/2017 08:20:22 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_4b2b1.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_4b2b1.dir\Debug\".
+  Creando directorio "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_4b2b1.dir\Debug\cmTC_4b2b1.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_4b2b1.dir\Debug\cmTC_4b2b1.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4b2b1.dir\Debug\\" /Fd"cmTC_4b2b1.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.10.25019 para x64
+  (C) Microsoft Corporation. Reservados todos los derechos.
+  
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4b2b1.dir\Debug\\" /Fd"cmTC_4b2b1.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_4b2b1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_4b2b1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_4b2b1.lib" /MACHINE:X64  /machine:x64 cmTC_4b2b1.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_4b2b1.vcxproj -> C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\cmTC_4b2b1.exe
+  cmTC_4b2b1.vcxproj -> C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp/Debug/cmTC_4b2b1.pdb (Full PDB)
+FinalizeBuildStatus:
+  Se eliminar  el archivo "cmTC_4b2b1.dir\Debug\cmTC_4b2b1.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "cmTC_4b2b1.dir\Debug\cmTC_4b2b1.tlog\cmTC_4b2b1.lastbuildstate".
+Compilaci¢n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_4b2b1.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.67
+
+

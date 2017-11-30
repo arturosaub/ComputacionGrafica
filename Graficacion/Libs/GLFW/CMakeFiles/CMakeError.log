@@ -1,0 +1,76 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f6739.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 16/10/2017 08:12:49 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_f6739.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_f6739.dir\Debug\".
+  Creando directorio "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_f6739.dir\Debug\cmTC_f6739.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_f6739.dir\Debug\cmTC_f6739.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f6739.dir\Debug\\" /Fd"cmTC_f6739.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.10.25019 para x86
+  (C) Microsoft Corporation. Reservados todos los derechos.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f6739.dir\Debug\\" /Fd"cmTC_f6739.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_f6739.vcxproj]
+Compilaci¢n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_f6739.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_f6739.vcxproj" (destino predeterminado) (1) ->
+(ClCompile destino) -> 
+  C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_f6739.vcxproj]
+
+    0 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:01.51
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_125c2.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine versi¢n 15.1.1012.6693
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 16/10/2017 08:20:25 a. m..
+Proyecto "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_125c2.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "cmTC_125c2.dir\Debug\".
+  Creando directorio "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\Debug\".
+  Creando directorio "cmTC_125c2.dir\Debug\cmTC_125c2.tlog\".
+InitializeBuildStatus:
+  Se crear  "cmTC_125c2.dir\Debug\cmTC_125c2.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_125c2.dir\Debug\\" /Fd"cmTC_125c2.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.10.25019 para x64
+  (C) Microsoft Corporation. Reservados todos los derechos.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_125c2.dir\Debug\\" /Fd"cmTC_125c2.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_125c2.vcxproj]
+Compilaci¢n del proyecto terminada "C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_125c2.vcxproj" (destinos predeterminados) -- ERROR.
+
+ERROR al compilar.
+
+"C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_125c2.vcxproj" (destino predeterminado) (1) ->
+(ClCompile destino) -> 
+  C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory [C:\Users\emi_s_000\OneDrive\Documentos\Graficacion\Libs\GLFW\CMakeFiles\CMakeTmp\cmTC_125c2.vcxproj]
+
+    0 Advertencia(s)
+    1 Errores
+
+Tiempo transcurrido 00:00:01.34
+
+

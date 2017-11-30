@@ -1,0 +1,3 @@
+C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/ALL_BUILD.dir
+C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/CMakeFiles/ZERO_CHECK.dir
+C:/Users/emi_s_000/OneDrive/Documentos/Graficacion/Libs/GLFW/src/CMakeFiles/glfw.dir
