@@ -1,0 +1,16 @@
+﻿  ShaderFuncs.cpp
+  Pacman.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\libs\glfw\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\projectoscg2\pacman\src\pacman.cpp(62): warning C4129: ' ': secuencia de escape de carácter no reconocida
+c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\projectoscg2\pacman\src\pacman.cpp(63): warning C4129: ' ': secuencia de escape de carácter no reconocida
+  Application.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\libs\glfw\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\projectoscg2\pacman\src\application.cpp(93): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\projectoscg2\pacman\src\application.cpp(93): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\projectoscg2\pacman\src\application.cpp(219): warning C4553: '==': el operador no tiene efecto; ¿ha pensado en '='?
+c:\users\arturo saucedo\desktop\graficaciongraficada}\graficacion\projectoscg2\pacman\src\application.cpp(223): warning C4553: '==': el operador no tiene efecto; ¿ha pensado en '='?
+  Generando código...
+  Pacman.vcxproj -> C:\Users\Arturo Saucedo\Desktop\GraficacionGraficada}\Graficacion\ProjectosCG2\x64\Debug\Pacman.exe
+  Pacman.vcxproj -> C:\Users\Arturo Saucedo\Desktop\GraficacionGraficada}\Graficacion\ProjectosCG2\x64\Debug\Pacman.pdb (Partial PDB)
